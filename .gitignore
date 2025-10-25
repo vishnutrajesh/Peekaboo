@@ -1,0 +1,6 @@
+BE/node_modules
+# Keep environment variables out of version control
+/BE/.env
+
+BE/src/generated/prisma
+.idea
